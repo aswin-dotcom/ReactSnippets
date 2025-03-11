@@ -44,3 +44,8 @@ function slowfunction(num) {
   }
   return num * 2;
 }
+
+
+
+// Use useEffect when you want to perform side effects.
+// Use useMemo to optimize performance and avoid expensive recalculations. 
